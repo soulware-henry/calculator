@@ -2,7 +2,7 @@
 
 calculator
 
-## Install the dependencies
+## 인스톨
 
 ```bash
 yarn
@@ -10,7 +10,7 @@ yarn
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### 실행
 
 ```bash
 quasar dev
@@ -41,7 +41,3 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
-
-### 실행
-
-quasar dev
